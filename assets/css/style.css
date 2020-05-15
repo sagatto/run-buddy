@@ -45,14 +45,14 @@ section {
     padding: 60px;
   }
 
-  .section-title {
+.section-title {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-  }
+}
   
 .primary-border {
     border-color: #fce138;
